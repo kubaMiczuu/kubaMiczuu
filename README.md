@@ -8,18 +8,6 @@ I'm an **Applied Computer Science student at Cracow University of Technology** a
 
 ---
 
-### 🚀 Kluczowy Projekt / Key Project: [Job-Scraper](https://github.com/kubaMiczuu/Job-Scraper)
-*🇵🇱 Złożony system do automatycznej agregacji i zarządzania ofertami pracy.*
-*🇬🇧 A complex system for automated aggregation and management of job offers.*
-
-* **Architektura / Architecture:** Hexagonal (Ports & Adapters) for clean separation of layers.
-* **Backend:** Java 17/21, Spring Boot, Spring Data JPA, PostgreSQL.
-* **Frontend:** React, Tailwind CSS, advanced pagination (intelligent ellipsis).
-* **Logika / Logic:** * Job lifecycle (NEW → CONSUMED → STALE) and location normalization.
-* **Notyfikacje / Notifications:** Discord Webhooks & Email (SMTP).
-
----
-
 ### 🛠️ Umiejętności / Tech Stack
 
 | Obszar / Category | Technologie / Technologies |
