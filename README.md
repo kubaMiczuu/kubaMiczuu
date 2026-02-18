@@ -24,12 +24,7 @@ I'm an **Applied Computer Science student at Cracow University of Technology** a
 * **Politechnika Krakowska:** Informatyka Stosowana / Applied Computer Science (Semester IV).
 * **Technik Informatyk:** Kwalifikacje / Qualifications INF.02 & INF.03 (wysoki wynik / high score).
 * **Mimo.org:** Kurs Full-stack Developer / Full-stack Developer Course (w trakcie / in progress).
-
+  
 ---
 
-### 📫 Kontakt / Contact
-* **LinkedIn:** [https://www.linkedin.com/in/jakub-miczek/]
-* **Email:** [kubamiczuu@gmail.com]
-
----
 *“I don't just write code; I think about the product and user experience.”*
